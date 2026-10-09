@@ -7,6 +7,7 @@ $nombre = 'Mauro Contador Alfonso';
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Práctica Git - Mauro Contador Alfonso</title>
+	<p>Segunda modificación realizada para practicar los commits de Git.</p>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -31,6 +32,7 @@ $nombre = 'Mauro Contador Alfonso';
 <body>
     <main>
         <h1><?php echo htmlspecialchars($nombre, ENT_QUOTES, 'UTF-8'); ?></h1>
+		<h2>Primera modificacion del repositorio Git</h2>
         <p>UT2 - Práctica de control de versiones con Git</p>
     </main>
 </body>
