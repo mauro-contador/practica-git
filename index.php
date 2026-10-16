@@ -35,6 +35,8 @@ $nombre = 'Mauro Contador Alfonso';
 		<h2>Primera modificacion del repositorio Git</h2>
         <p>UT2 - Práctica de control de versiones con Git</p>
 		<p>Modificación realizada desde GitHub para practicar git pull.</p>
+		<p>Primer cambio para practicar git restore.</p>
+		<p>Segundo cambio para comprobar las diferencias con git diff.</p>
     </main>
 </body>
 </html>
