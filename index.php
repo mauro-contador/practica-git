@@ -34,6 +34,7 @@ $nombre = 'Mauro Contador Alfonso';
         <h1><?php echo htmlspecialchars($nombre, ENT_QUOTES, 'UTF-8'); ?></h1>
 		<h2>Primera modificacion del repositorio Git</h2>
         <p>UT2 - Práctica de control de versiones con Git</p>
+		<p>Modificación realizada desde GitHub para practicar git pull.</p>
     </main>
 </body>
 </html>
